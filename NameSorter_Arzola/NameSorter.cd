@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="NameSorter_Arzola.NameSorting">
+    <Position X="1" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEQAABAAAAAAACAkAAAgAAAAAA=</HashCode>
+      <FileName>NameSorting.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NameSorter_Arzola.NamesParser">
+    <Position X="3" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NamesParser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NameSorter_Arzola.FullName">
+    <Position X="5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>FullName.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="NameSorter_Arzola.SortingStyle">
+    <Position X="5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAQAAAAA=</HashCode>
+      <FileName>SortingStyle.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

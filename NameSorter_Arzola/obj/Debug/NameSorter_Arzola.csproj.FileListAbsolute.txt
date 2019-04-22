@@ -1,0 +1,6 @@
+\\mac\home\documents\visual studio 2015\Projects\NameSorter_Arzola\NameSorter_Arzola\bin\Debug\NameSorter_Arzola.exe.config
+\\mac\home\documents\visual studio 2015\Projects\NameSorter_Arzola\NameSorter_Arzola\bin\Debug\NameSorter_Arzola.exe
+\\mac\home\documents\visual studio 2015\Projects\NameSorter_Arzola\NameSorter_Arzola\bin\Debug\NameSorter_Arzola.pdb
+\\mac\home\documents\visual studio 2015\Projects\NameSorter_Arzola\NameSorter_Arzola\obj\Debug\NameSorter_Arzola.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\NameSorter_Arzola\NameSorter_Arzola\obj\Debug\NameSorter_Arzola.exe
+\\mac\home\documents\visual studio 2015\Projects\NameSorter_Arzola\NameSorter_Arzola\obj\Debug\NameSorter_Arzola.pdb

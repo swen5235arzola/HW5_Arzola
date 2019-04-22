@@ -1,0 +1,9 @@
+\\mac\home\documents\visual studio 2015\Projects\NameSorter_Arzola\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+\\mac\home\documents\visual studio 2015\Projects\NameSorter_Arzola\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+\\mac\home\documents\visual studio 2015\Projects\NameSorter_Arzola\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+\\mac\home\documents\visual studio 2015\Projects\NameSorter_Arzola\UnitTestProject1\bin\Debug\NameSorter_Arzola.exe
+\\mac\home\documents\visual studio 2015\Projects\NameSorter_Arzola\UnitTestProject1\bin\Debug\NameSorter_Arzola.pdb
+\\mac\home\documents\visual studio 2015\Projects\NameSorter_Arzola\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+\\mac\home\documents\visual studio 2015\Projects\NameSorter_Arzola\UnitTestProject1\obj\Debug\NameSorterTests.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\NameSorter_Arzola\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+\\mac\home\documents\visual studio 2015\Projects\NameSorter_Arzola\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
